@@ -20,6 +20,4 @@ final class NoteAssistant {
     // TODO: Part 3
     func tag(_ note: Note) async {
     }
-
-    // TODO: Part 4 (ChatView.swift and StudyChat.swift)
 }
